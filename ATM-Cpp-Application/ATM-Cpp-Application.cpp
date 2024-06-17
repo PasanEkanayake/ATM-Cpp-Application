@@ -64,8 +64,6 @@ int main()
 		}
 	} while (approvedAccount < 1);
 
-	/*cout << endl << userName << ' ' << pinNumber << ' ' << initialDeposit;*/
-
 	system("cls");
 
 	char goToATM;
